@@ -1,0 +1,9 @@
+<cangaroo-workspace>
+ <tabs>
+  <tab title="Trace" TimestampMode="2" mode="linear" type="TraceWindow">
+   <LinearTraceView AutoScroll="1"/>
+   <AggregatedTraceView SortColumn="-1"/>
+  </tab>
+ </tabs>
+ <setup/>
+</cangaroo-workspace>

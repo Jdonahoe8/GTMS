@@ -1,0 +1,66 @@
+Partlist
+
+Exported from F20_NoMCU_PDM_V1_v1.brd at 3/3/2023 7:11 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part        Value                Package            Library             Position (mil)        Orientation
+
+ABSMOTOR_F  3568                 3568               SamacSys_Parts      (4850 2500)           R270
+ABSON_F     3568                 3568               SamacSys_Parts      (4750 250)            R90
+ABSVALVE_F  3568                 3568               SamacSys_Parts      (5250 2500)           R270
+C1          1u                   C0805              rcl                 (800 2050)            R0
+C2          10u 25V              C0805              rcl                 (800 1900)            R0
+C3          1u                   C0805              rcl                 (800 1300)            R0
+C4          1u                   C0805              rcl                 (800 950)             R0
+C5          1u                   C0805              rcl                 (800 1650)            R0
+C6          10u 25V              C0805              rcl                 (800 1500)            R0
+C7          10u 25V              C0805              rcl                 (800 800)             R0
+C8          10u 25V              C0805              rcl                 (800 1150)            R0
+C9          10u 25V              C0805              rcl                 (800 450)             R0
+C10         1u                   C0805              rcl                 (800 600)             R0
+DASH_F      3568                 3568               SamacSys_Parts      (3550 250)            R90
+ECU_F       3568                 3568               SamacSys_Parts      (3150 250)            R90
+ENGINE_F    3568                 3568               SamacSys_Parts      (3650 2500)           R270
+FANS_F      3568                 3568               SamacSys_Parts      (4450 2500)           R270
+FUEL_F      3568                 3568               SamacSys_Parts      (4050 2500)           R270
+H1          MOUNT-PAD-ROUND3.3   3,3-PAD            holes               (200 200)             R0
+H2          MOUNT-PAD-ROUND3.3   3,3-PAD            holes               (5300 3250)           R0
+H3          MOUNT-PAD-ROUND3.3   3,3-PAD            holes               (200 3250)            R0
+J2          1722981106           1722981106         Molex_1722981106    (350 2550)            R90
+J3          8196                 8196               8196_ScrewTerminal  (3550 1150)           R0
+J4          8196                 8196               8196_ScrewTerminal  (4750 1150)           R0
+J5          43045-2412           43045-2412         Molex_0430452412    (300 1350)            R270
+JABSON                           SJ                 jumper              (1300 300)            R0
+JDASH                            SJ                 jumper              (2400 300)            R180
+JECU                             SJ                 jumper              (2800 300)            R0
+JMISC                            SJ                 jumper              (1650 300)            R180
+JTELE                            SJ                 jumper              (2000 300)            R0
+MISC_F      3568                 3568               SamacSys_Parts      (4350 250)            R90
+Q1          IPB120P04P4L03ATMA1  PG-TO263-3-2_1     IPB120P04P4L03ATMA1 (1950 3200)           R90
+Q2          IPB120P04P4L03ATMA1  PG-TO263-3-2_1     IPB120P04P4L03ATMA1 (1950 1550)           R90
+Q3          IPB120P04P4L03ATMA1  PG-TO263-3-2_1     IPB120P04P4L03ATMA1 (1950 2650)           R90
+Q4          BUK9K29-100E         SOIC127P605X105-8N BUK9K29-100E        (1450 1450)           R0
+Q5          NSVT489AMT1G         SOT95P275X110-6N   NSVT489AMT1G        (2800 600)            R90
+Q6          BUK9K29-100E         SOIC127P605X105-8N BUK9K29-100E        (1450 1000)           R0
+Q7          BUK9K29-100E         SOIC127P605X105-8N BUK9K29-100E        (1500 550)            R0
+Q8          IPB120P04P4L03ATMA1  PG-TO263-3-2_1     IPB120P04P4L03ATMA1 (2150 1000)           R90
+Q12         IPB120P04P4L03ATMA1  PG-TO263-3-2_1     IPB120P04P4L03ATMA1 (1950 2100)           R90
+R1          1k                   R0805              rcl                 (2700 2950)           R90
+R2          1k                   R0805              rcl                 (2700 2650)           R270
+R3          1k                   R0805              rcl                 (2750 1800)           R270
+R4          1k                   R0805              rcl                 (2800 1200)           R270
+R5          20k                  R0805              rcl                 (2450 550)            R0
+R6          1k                   R0805              rcl                 (2250 650)            R180
+SHIFTER_F   3568                 3568               SamacSys_Parts      (5150 250)            R90
+TELEMETRY_F 3568                 3568               SamacSys_Parts      (3950 250)            R90
+U$4         S10AL-TP             DIOM7959X265N      S10AL-TP            (1600 3150)           R270
+U$5         S10AL-TP             DIOM7959X265N      S10AL-TP            (1600 2700)           R270
+U$6         S10AL-TP             DIOM7959X265N      S10AL-TP            (1650 1950)           R270
+U1          LM74700QDBVTQ1DBV6-M DBV6-M             LM74700             (1100 1950)           R0
+U2          LM74700QDBVTQ1DBV6-M DBV6-M             LM74700             (1100 1600)           R0
+U3          LM74700QDBVTQ1DBV6-M DBV6-M             LM74700             (1100 1250)           R0
+U4          LM74700QDBVTQ1DBV6-M DBV6-M             LM74700             (1100 900)            R0
+U5          LM74700QDBVTQ1DBV6-M DBV6-M             LM74700             (1100 550)            R0

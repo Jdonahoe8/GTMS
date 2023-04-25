@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-11-05T00:00:57Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "F20_NoMCU_PDM_V1_v1"
+        },
+        "Owner": "John Donahoe <johndonahoe03@gmail.com>",
+        "Size": {
+            "X": 140.95,
+            "Y": 88.57
+        }
+    }
+}
